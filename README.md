@@ -72,6 +72,7 @@ Wearable ECG monitors irregular heart rhythms, enhancing early intervention for 
 
 Big Data and Predictive Analytics
 Big Data and Predictive Analytics are at the forefront of improving both preventive care and disease management. About 80% of healthcare-generated data is unstructured, big data analytics focuses on operationalizing this kind of data. With the vast amount of health data generated from EHRs, wearables, RPM devices, and other sources, big data technologies analyze and aggregate information to uncover trends and patterns that would otherwise be difficult to detect. 
+![](https://github.com/Gideono29/Population-Health-Research/blob/a82d64648ff233c2e5b3b5dc8d857bc7dce1990c/AoU.png)
  
 The All of Us Program is an ongoing collective effort to obtain and analyze data from one million or more people living in the United States. The objective of the program is to improve healthcare through data and precision medicine. 
 Predictive analytics uses this data to forecast health outcomes, identify at-risk populations, and recommend personalized interventions. For example, predictive models can analyze patient data to identify those at high risk for heart disease, diabetes, or stroke, enabling targeted preventive measures to reduce the likelihood of disease progression. Predictive analytics also play a key role in chronic disease management by providing insights into the probability of complications, prompting healthcare providers to adjust treatment plans proactively.
