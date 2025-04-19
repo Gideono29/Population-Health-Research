@@ -49,7 +49,7 @@ Health informatics is a multidisciplinary field that integrates healthcare, info
 Electronic Health Records (EHRs) 
 EHRs serve as the backbone of modern healthcare, digitizing patient data and providing healthcare professionals with comprehensive, up-to-date health information. As of 2021, 78% of physicians and 96% of acute care hospitals have adopted an EHR. This marks a significant milestone since 2011, when small percentages of hospitals and physicians had adopted an EHR.
 
- 
+ ![](https://github.com/Gideono29/Population-Health-Research/blob/82ad013f4347c048d1971b3b1d19ab296cdd36cf/EHR.png)
 
 EHRs store critical information such as medical history, lab results, medications, and immunization records, which are essential for both preventive care and ongoing disease management. By consolidating patient data in one system, EHRs ensure that healthcare providers have easy access to accurate health records, reducing errors and improving decision-making. In the context of disease prevention, EHRs integrate CDSS to prompt healthcare providers about needed screenings or preventive measures based on individual risk factors. For example, an EHR might prompt a physician to recommend a mammogram for a woman with a family history of breast cancer. EHRs also track chronic conditions like diabetes or hypertension, enabling healthcare providers to monitor patient prognosis and adjust management plans accordingly.
 
