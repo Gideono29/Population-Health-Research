@@ -81,7 +81,7 @@ Health Information Exchange (HIE)
 Health Information Exchange (HIE) systems facilitate the efficient sharing of patient information between multiple healthcare providers and organizations. HIE ensures accessibility to up-to-date health information by healthcare professionals regardless of where a patient receives care. This interoperability enhances care coordination, ensures comprehensive treatment plans, and eliminates redundant tests and procedures. In terms of disease prevention, HIE allows providers to track a patient’s immunizations, screenings, and preventive health measures across different healthcare settings, ensuring continuity of care. 
 Hospitals' involvement in the send, receive, find, and integrate domains of interoperability increased from 46% in 2018 to 70% in 2023.
 
- 
+![](https://github.com/Gideono29/Population-Health-Research/blob/30dbbcf1a75522b2a83de813f87c3300e1bcd31f/HIE.png) 
 
 For chronic disease management, HIE enables a comprehensive view of a patient’s condition, allowing providers to collaborate and adjust treatment plans more effectively.
 In conclusion, health informatics plays an integral role in both disease prevention and continuous disease management through the integration of EHRs, CDSS, telemedicine, mHealth, wearables, big data, and HIE. These technologies work together to empower patients, enhance decision-making, and improve overall healthcare outcomes, driving a more proactive and personalized approach to health management. As these technologies continue to evolve, their potential to transform healthcare and reduce the burden of diseases will only increase.
