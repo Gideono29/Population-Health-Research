@@ -4,7 +4,7 @@ This project highlights the significance of Health Informatics in preventive hea
 
 
 
-Leveraging Health Informatics and AI to enhance preventive healthcare and disease management.
+# Leveraging Health Informatics and AI to enhance preventive healthcare and disease management.
 
 Abstract
 Preventive healthcare and continuous disease management play significant roles in reducing the burden of chronic diseases, yet at-risk populations face barriers to early detection and intervention. This study explores the incorporation of Health Informatics (HI) and artificial intelligence (AI) to enhance the delivery of personalized preventive health and disease management strategies. By leveraging electronic health records (EHRs), wearable devices, and predictive analytics, we aim to develop AI-supported strategies to identify high-risk individuals and recommend tailored lifestyle interventions. The research will focus on evaluating the effectiveness of AI-powered mobile health, telemedicine, predictive analytics, and remote patient monitoring tools in improving patient engagement and adherence to preventive measures. Additionally, this study will examine how health informatics can improve health outcomes and reduce healthcare disparities in vulnerable communities.
